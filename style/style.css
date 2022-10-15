@@ -18,9 +18,15 @@ img {
 
 ul {
   border: 2px solid black;
-  border-radius: 3%;
+  border-radius: 30px;
   border-style: ridge;
   padding: 30px;
   font-size: 24px;
   text-align: center;
+  background-color: hsl(60, 86%, 83%);
+}
+
+li,
+a {
+  background-color: hsl(60, 86%, 83%);
 }

@@ -15,3 +15,30 @@ h1 {
   text-align: center;
   font-weight: bolder;
 }
+
+.perfect {
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  padding: 2rem;
+  border: 1px solid gray;
+  background-color: hsl(60, 86%, 83%);
+  border-radius: 30px;
+  border-style: groove;
+}
+
+ul,
+ol {
+  border: 1px solid gray;
+  border-radius: 3%;
+  background-color: hsl(60, 86%, 83%);
+}
+
+li {
+  padding: 1rem;
+  background-color: hsl(60, 86%, 83%);
+}
+
+h3 {
+  background-color: hsl(60, 86%, 83%);
+}
