@@ -5,8 +5,10 @@
 img {
   border-radius: 30px;
   border: 2px solid black;
-  width: 100%;
+  width: 90%;
   height: auto;
+  margin: auto;
+  display: block;
 }
 
 h1 {
@@ -29,6 +31,10 @@ h2 {
   background-color: hsl(60, 78%, 87%);
   border-radius: 30px;
   border-style: groove;
+  width: 85%;
+  padding: auto;
+  margin: auto;
+  margin-top: 30px;
 }
 
 ul,
@@ -36,11 +42,16 @@ ol {
   border: 1px solid gray;
   border-radius: 30px;
   background-color: hsl(60, 78%, 87%);
+  width: 85%;
+  padding: auto;
+  margin: auto;
 }
 
 li {
   padding: 1rem;
   background-color: hsl(60, 78%, 87%);
+  font-size: 20px;
+  text-align: justify;
 }
 
 h3 {
