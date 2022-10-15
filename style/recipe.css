@@ -1,0 +1,17 @@
+* {
+  background-color: #eeeed1;
+}
+
+img {
+  border-radius: 5%;
+  border: 2px solid black;
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 3rem;
+  text-align: center;
+  font-weight: bolder;
+}
