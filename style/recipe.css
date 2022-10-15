@@ -16,6 +16,10 @@ h1 {
   font-weight: bolder;
 }
 
+h2 {
+  text-align: center;
+}
+
 .perfect {
   font-weight: bolder;
   font-style: italic;
